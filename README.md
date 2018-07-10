@@ -1,5 +1,5 @@
+# Gulp-fast-deployment
 **Gulp template, for fast deployment simple project**
-
 _Gulp plugins:_
 
     gulp-sass
